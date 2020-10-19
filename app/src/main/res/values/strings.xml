@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="name">Thomas Galinis</string>
+    <string name="znumber">Z23546211</string>
+    <string name="course">COP4655 Fall 2020</string>
+    <string name="ui_plus">+</string>
+    <string name="ui_minus">-</string>
+    <string name="ui_mult">*</string>
+    <string name="ui_div">/</string>
+    <string name="ui_equals">=</string>
+    <string name="ui_operand_0">Number 1</string>
+    <string name="ui_operand_1">Number 2</string>
+</resources>
